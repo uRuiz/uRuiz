@@ -17,7 +17,7 @@ const uRuiz = {
     askMeAbout: ["web dev", "tech", "app dev", "mtb"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Nuxt". "Angular],
+            js: ["React", "Vue", "Nuxt". "Angular"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {

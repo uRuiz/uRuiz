@@ -8,7 +8,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Urko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urko-ruiz-ruiz/)](https://www.linkedin.com/in/urko-ruiz-ruiz/)
 ![GitHub followers](https://img.shields.io/github/followers/uRuiz?label=Follow&style=social)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const urko = {

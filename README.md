@@ -1,4 +1,4 @@
-### Hi, I'm Urko 👋 <img src="https://media.giphy.com/media/8wcFKkFVbitc0STBrH/giphy.gif" width="50"></h2>
+### Hi, I'm Urko 👋
 
 <img align='right' src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="230">
 <p><em>Fullstack at <a href="https://www.kenjo.io/">Kenjo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 

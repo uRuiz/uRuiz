@@ -22,5 +22,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
 
+<p>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=uRuiz&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uRuiz&hide=TeX&layout=compact)
+</p>
+<p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uRuiz&hide=TeX)
+</p>

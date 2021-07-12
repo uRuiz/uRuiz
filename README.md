@@ -1,7 +1,7 @@
 ### Hi, I'm Urko 👋
 
 <img align='right' src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="230">
-<p><em>Fullstack at   <a href="https://www.sngular.com/es/"><img src="https://www.sngular.com/wp-content/uploads/2021/06/SNGULAR.svg"/></a></em></p>
+<p><em>Frontend developer at <a href="https://www.sngular.com/es/"><img src="https://www.sngular.com/wp-content/uploads/2021/06/SNGULAR.svg"/></a></em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/_uRuiz_?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Urko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urko-ruiz-ruiz/)](https://www.linkedin.com/in/urko-ruiz-ruiz/)

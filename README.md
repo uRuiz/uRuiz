@@ -1,7 +1,7 @@
 ### Hi, I'm Urko 👋
 
 <img align='right' src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="230">
-<p><em>Fullstack at <a href="https://www.kenjo.io/">Kenjo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Fullstack at <a href="https://www.sngular.com/es/">Sngular</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/_uRuiz_?label=Follow)

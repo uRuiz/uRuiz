@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular)
+![Vue](https://img.shields.io/badge/-Vue-green?style=plastic&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=plastic&logo=React&logoColor=white)
 

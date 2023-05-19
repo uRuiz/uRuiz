@@ -1,4 +1,4 @@
-### Hi, I'm Urko 👋
+### Hi, I'm <a href="https://www.linkedin.com/in/urko-ruiz-ruiz/">Urko</a> 👋
 
 <img align='right' src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="230">
 <p><em>Frontend developer at <a href="https://www.manomano.es"><img width="200" align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19885713/239628214-55114bd0-3dd7-481e-abe8-4ee21470633c.png"/></a></em></p>
@@ -7,7 +7,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Urko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urko-ruiz-ruiz/)](https://www.linkedin.com/in/urko-ruiz-ruiz/)
 ![GitHub followers](https://img.shields.io/github/followers/uRuiz?label=Follow&style=social)
 
-## Tecnologías
+## Tecnologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -26,5 +26,4 @@
 
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uRuiz&count_private=true&show_icons=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uRuiz&hide=TeX)

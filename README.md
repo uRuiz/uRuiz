@@ -1,7 +1,7 @@
 ### Hi, I'm <a href="https://www.linkedin.com/in/urko-ruiz-ruiz/">Urko</a> 👋
 
 <img align='right' src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="230">
-<p><em>Frontend developer at <a href="https://www.manomano.es"><img width="200" align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19885713/239628214-55114bd0-3dd7-481e-abe8-4ee21470633c.png"/></a></em></p>
+<p><em>Frontend developer at <a href="https://www.opositatest.com">OpositaTest</a></em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/_uRuiz_?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Urko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urko-ruiz-ruiz/)](https://www.linkedin.com/in/urko-ruiz-ruiz/)

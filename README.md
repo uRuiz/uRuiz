@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="230">
 <p><em>Frontend developer at </em></p>
-<a href="https://www.opositatest.com"><img src="https://www.google.com/u/0/ac/images/logo.gif?uid=111883541332037419869&service=google_gsuite" height="50px"/></a>
+<a href=["https://www.opositatest.com](https://www.naturitas.es/)"><img src="https://www.naturitas.es/media/logo/default/logo-naturitas.svg" height="50px" alt="Naturitas logo"/></a>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/_uRuiz_?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Urko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urko-ruiz-ruiz/)](https://www.linkedin.com/in/urko-ruiz-ruiz/)
@@ -21,6 +21,9 @@
 ![Vue](https://img.shields.io/badge/-Vue-green?style=plastic&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=plastic&logo=React&logoColor=white)
+![Next](https://img.shields.io/badge/next.js-47A248?style=plastic&logo=nextdotjs&logoColor=white)
+
+![React Testing Library](https://img.shields.io/badge/-RTL-61DAFB?style=plastic&logo=react&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)

@@ -75,11 +75,8 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-24292F?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
-## 📊 GitHub stats
+## 📈 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uRuiz&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uRuiz&layout=compact&hide=TeX&theme=transparent&hide_border=true&title_color=2F81F7" alt="Top languages" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=uRuiz&theme=transparent&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak" />
 </p>

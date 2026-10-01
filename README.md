@@ -9,7 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/urko-ruiz-ruiz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/_uRuiz_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://urkoruiz.vercel.app"><img src="https://img.shields.io/badge/Website-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.urkoruiz.com"><img src="https://img.shields.io/badge/Website-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:urkoruizruiz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 

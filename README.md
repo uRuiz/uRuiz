@@ -34,7 +34,7 @@
       <code>Next.js</code> <code>Prisma</code> <code>Neon</code> <code>Inngest</code> <code>Strava API</code>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Feed Zone</h3>
+      <h3>⚡ <a href="https://apps.garmin.com/apps/fbb77d6d-d1db-4aaf-99a0-94b441d9976f">Feed Zone</a></h3>
       Garmin Connect IQ data field that tells you when to eat and drink on the bike, based on real effort (kJ / %FTP) instead of generic per-hour rules.
       <br /><br />
       <code>Monkey C</code> <code>Connect IQ</code> <code>Garmin Edge</code>

@@ -48,7 +48,7 @@
       <code>Next.js</code> <code>TypeScript</code> <code>Vercel</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🧮 <a href="https://practica-calculo-mental.vercel.app">Cálculo Mental</a></h3>
+      <h3>🧮 <a href="https://mochilalista.com/">Mochila Lista</a></h3>
       Educational app for primary school kids to practise mental arithmetic.
       <br /><br />
       <code>Next.js</code> <code>TypeScript</code> <code>Vercel</code>
